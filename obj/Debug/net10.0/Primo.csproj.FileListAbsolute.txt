@@ -1,0 +1,15 @@
+C:\Users\sem07\Documents\Visual Studio Code\Projects\Primo\Primo\bin\Debug\net10.0\Primo.exe
+C:\Users\sem07\Documents\Visual Studio Code\Projects\Primo\Primo\bin\Debug\net10.0\Primo.deps.json
+C:\Users\sem07\Documents\Visual Studio Code\Projects\Primo\Primo\bin\Debug\net10.0\Primo.runtimeconfig.json
+C:\Users\sem07\Documents\Visual Studio Code\Projects\Primo\Primo\bin\Debug\net10.0\Primo.dll
+C:\Users\sem07\Documents\Visual Studio Code\Projects\Primo\Primo\bin\Debug\net10.0\Primo.pdb
+C:\Users\sem07\Documents\Visual Studio Code\Projects\Primo\Primo\obj\Debug\net10.0\Primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sem07\Documents\Visual Studio Code\Projects\Primo\Primo\obj\Debug\net10.0\Primo.AssemblyInfoInputs.cache
+C:\Users\sem07\Documents\Visual Studio Code\Projects\Primo\Primo\obj\Debug\net10.0\Primo.AssemblyInfo.cs
+C:\Users\sem07\Documents\Visual Studio Code\Projects\Primo\Primo\obj\Debug\net10.0\Primo.csproj.CoreCompileInputs.cache
+C:\Users\sem07\Documents\Visual Studio Code\Projects\Primo\Primo\obj\Debug\net10.0\Primo.sourcelink.json
+C:\Users\sem07\Documents\Visual Studio Code\Projects\Primo\Primo\obj\Debug\net10.0\Primo.dll
+C:\Users\sem07\Documents\Visual Studio Code\Projects\Primo\Primo\obj\Debug\net10.0\refint\Primo.dll
+C:\Users\sem07\Documents\Visual Studio Code\Projects\Primo\Primo\obj\Debug\net10.0\Primo.pdb
+C:\Users\sem07\Documents\Visual Studio Code\Projects\Primo\Primo\obj\Debug\net10.0\Primo.genruntimeconfig.cache
+C:\Users\sem07\Documents\Visual Studio Code\Projects\Primo\Primo\obj\Debug\net10.0\ref\Primo.dll
