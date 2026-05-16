@@ -1,0 +1,14 @@
+/home/sem/Documenti/VsCode/Primo/bin/Debug/net6.0/Primo
+/home/sem/Documenti/VsCode/Primo/bin/Debug/net6.0/Primo.deps.json
+/home/sem/Documenti/VsCode/Primo/bin/Debug/net6.0/Primo.runtimeconfig.json
+/home/sem/Documenti/VsCode/Primo/bin/Debug/net6.0/Primo.dll
+/home/sem/Documenti/VsCode/Primo/bin/Debug/net6.0/Primo.pdb
+/home/sem/Documenti/VsCode/Primo/obj/Debug/net6.0/Primo.GeneratedMSBuildEditorConfig.editorconfig
+/home/sem/Documenti/VsCode/Primo/obj/Debug/net6.0/Primo.AssemblyInfoInputs.cache
+/home/sem/Documenti/VsCode/Primo/obj/Debug/net6.0/Primo.AssemblyInfo.cs
+/home/sem/Documenti/VsCode/Primo/obj/Debug/net6.0/Primo.csproj.CoreCompileInputs.cache
+/home/sem/Documenti/VsCode/Primo/obj/Debug/net6.0/Primo.dll
+/home/sem/Documenti/VsCode/Primo/obj/Debug/net6.0/ref/Primo.dll
+/home/sem/Documenti/VsCode/Primo/obj/Debug/net6.0/Primo.pdb
+/home/sem/Documenti/VsCode/Primo/obj/Debug/net6.0/Primo.genruntimeconfig.cache
+/home/sem/Documenti/VsCode/Primo/obj/Debug/net6.0/refint/Primo.dll
